@@ -13,7 +13,7 @@
   <tr><td>Login</td></tr>
   <tr><td>User ID: <input name="user" type="text" style="width:215px" maxlength="20" autocomplete="off"></td></tr>
   <tr><td>Password: <input name="pass" type="password" style="width:215px" maxlength="20" autocomplete="off"></td></tr>
-  <tr><td><input type="submit" name="submit" value="Login"></td></tr>
+  <tr><td><input type="submit" class="stuloginbutton" name="submit" value="Login"></td></tr>
   </table>
   </form>
 </body>

@@ -23,6 +23,19 @@ echo $_SESSION['user_name'];
    <option>Meeting Room</option>
  </select></p>
  <p><input type ="submit" value="Go"></p>
+ <p style="float:left"><img src="lecture room.jpg" alt="lecture room" style="float:left;width:300px;height:150px;"></p><br><br>
+<br>
+<p>Lecture Room example.</p>
+<p style="float:left"><img src="tutorial room.jpg" alt="Tutorial room" style="float:center;width:300px;height:150px;"></p><br><br>
+<br>
+<p>Tutorial Room example.</p>
+<p style="float:left"><img src="main hall.jpg" alt="Main hall" style="float:center;width:300px;height:150px;"></p><br><br>
+<br>
+<p>Main Hall example.</p>
+<p style="float:left"><img src="meeting room.jpg" alt="meeting  room" style="float:center;width:300px;height:150px;"></p><br><br>
+<br>
+<p>Meeting Room example.</p>
+
  </form>
 </body>
 </html>

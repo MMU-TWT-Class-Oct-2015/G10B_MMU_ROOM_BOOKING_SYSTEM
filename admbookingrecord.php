@@ -1,5 +1,14 @@
 <html>
+<link rel="stylesheet" type="text/css" href="main.css">
 <body>
+  <ul class="header">
+  <li class="headerli"><a class="headera" href="admbookingrecord.php">View Booking Records</a></li>
+  <li class="headerli"><a class="headera" href="admsearch.php">Search Booking Records</a> </li>
+  <li class="headerli"><a class="headera" href="admroomdisplay.php">Display Room</a></li>
+  <li class="headerli"><a class="headera" href="admuserdisplay.php">Display User</a></li>
+  <li class="headerli"><a class="headera" href="logout.php">Log out</a></li>
+   </ul>
+
 <?php
 include('config.php');
 $query1=mysql_query("SELECT * FROM booking");
@@ -19,9 +28,6 @@ echo "<td><a href='abedit.php?id=" .$query2['booking_id']. " '>Edit</a></td>";
 }
 ?>
 <p><a href='abadd.php'>Add  Booking</a></p>
-<form>
-<input type="hidden" id="reason"/>
-</form>
 </table>
 </body>
 </html>

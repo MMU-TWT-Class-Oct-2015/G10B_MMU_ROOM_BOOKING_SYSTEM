@@ -21,13 +21,13 @@ echo $_SESSION['user_name'];
    <option>Main Hall</option>
  </select></p>
  <p><input type ="submit" value="Go"></p>
-  <p style="float:left"><img src="lecture room.jpg" alt="lecture room" style="float:left;width:400px;height:200px;"></p><br><br>
+  <p style="float:left"><img src="lectureroom.jpg" alt="lecture room" style="float:left;width:400px;height:200px;"></p><br><br>
 <br>
 <p>Lecture Room example.</p>
-<p style="float:left"><img src="tutorial room.jpg" alt="Tutorial room" style="float:center;width:400px;height:200px;"></p><br><br>
+<p style="float:left"><img src="tutorialroom.jpg" alt="Tutorial room" style="float:center;width:400px;height:200px;"></p><br><br>
 <br>
 <p>Tutorial Room example.</p>
-<p style="float:left"><img src="main hall.jpg" alt="Main hall" style="float:right;width:400px;height:200px;"></p><br><br>
+<p style="float:left"><img src="mainhall.jpg" alt="Main hall" style="float:right;width:400px;height:200px;"></p><br><br>
 <br>
 <p>Main Hall example.</p>
  </form>

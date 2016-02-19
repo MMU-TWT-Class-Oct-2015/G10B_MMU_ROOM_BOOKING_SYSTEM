@@ -2,7 +2,7 @@
 <body>
 <link rel="stylesheet" type="text/css" href="main.css">
 <ul class="header">
-  <li class="headerli"><a class="headera" href="viewbookingrecords.php">View Booking Records</a></li>
+  <li class="headerli"><a class="headera" href="stafviewrecords.php">View Booking Records</a></li>
   <li class="headerli"><a class="headera" href="logout.php">Log out</a></li>
  </ul>
 <h1>welcome!

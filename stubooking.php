@@ -15,7 +15,7 @@ if(isset($_POST['submit'])){
 if ($book){
   echo '<script language="javascript">';
   echo 'alert("Booking Stored");';
-  echo 'window.location= "viewbookingrecords.php";';
+  echo 'window.location= "stafviewrecords.php";';
   echo '</script>';
 }else{
   echo '<script language="javascript">';

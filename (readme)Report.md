@@ -130,3 +130,39 @@ v)Key in id and password to perform booking.
 vi)For admin login in, go to :localhost/TWT/adminloginpage.php
 vii)For admin, there is view,add,edit and delete function.
 viii)A logout function is set for each user including admin which redirect users back to _homepage.html_
+
+#5)Screenshot
+![homepage](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/homepagess.png)
+
+![user_login_page](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/userloginpage.png)
+
+![Student_booking_1](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/studentbooking.png)
+
+![student_booking_2](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/studentbooking2.png)
+
+![Student_available](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/studentviewavailable.png)
+
+![student_records](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/stuviewbookingrecords.png)
+
+![staff_main](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/staffmainpage.png)
+
+![staff_selection](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/staffselection.png)
+
+![staff_available](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/staffviewavailable.png)
+
+![staff_records](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/staffbookingrecords.png)
+
+![admin_login_page](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/adminloginpage.png)
+
+![admin_main](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/adminmainpage.png)
+
+![admin_booking_records](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/adminbookingrecords.png)
+
+![admin_room_display](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/adminroomdisplay.png)
+
+![admin_search](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/adminsearch.png)
+
+![admin_user_display](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/adminuserdisplay.png)
+
+![admin_user_edit](https://raw.githubusercontent.com/chinhang95/G10B_MMU_ROOM_BOOKING_SYSTEM/master/screenshot/adminedituser.png)
+

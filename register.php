@@ -13,6 +13,6 @@ $insert = mysql_query("INSERT INTO users(`user_id`,`user_name`,`user_password`,`
 VALUES ('$newid','$newname','$newpass','$newphone','$newemail');");
 
 if($insert){
-header("Location: /TWT/registered.php?status=reg_success");
+header("Location: loginpage.php");
 }
 ?>

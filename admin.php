@@ -4,7 +4,7 @@
 <body>
 
 <ul class="header">
-<li class="headerli"><a class="headera" href="admbookingrecords.php">View Booking Records</a></li>
+<li class="headerli"><a class="headera" href="admbookingrecord.php">View Booking Records</a></li>
 <li class="headerli"><a class="headera" href="admsearch.php">Search Booking Records</a> </li>
 <li class="headerli"><a class="headera" href="admroomdisplay.php">Display Room</a></li>
 <li class="headerli"><a class="headera" href="admuserdisplay.php">Display User</a></li>
